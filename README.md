@@ -18,4 +18,8 @@ The 'boids' model is a simple set of rules which attempts to simulate the flocki
 
 ![Alt Image text](previews/BoidParticles.gif)
 
+## Thermodynamic Properties
+Apart from our direct simulations, we were also able to analyse some of the thermodynamic properties of interest. One example includes the relationship between the number of particles and the pressure against the wall/s of the 2-D box. A sample simulation can be seen below.
+
+![Alt Image text](previews/pressure_number_particles.png)
 
