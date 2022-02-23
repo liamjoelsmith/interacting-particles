@@ -1,7 +1,7 @@
 # interacting-particles
 Simulation of Many Interacting Particles and their Thermodynamic Properties.
 
-Since this project was completed as part of a university course (and the same project is run every year), the matlab code is not visible to the public. However, I've included some sample simulations as a guide of what was involved.
+Since this project was completed as part of a university course (and the same project is run every year), the matlab code is not visible to the public. However, I've included some sample simulations as a guide of what was involved. A number of methods was used throughout the project, and is not limited to: using the 'Verlet' method for calculating positions/velocities/accelerations, using the 'boids' model to simulate flocking behaviour in particles in a 2-D box.
 
 ## Particle Interaction Simulation
 Introduces interaction forces between particles in an Ideal Gas MATLAB simulation. In particular, a Lennard-Jones potential was chosen as it is considered a simple yet realistic model for intermolecular interactions. It describes soft repulsive and attractive interactions, meaning that it well represents electronically neutral atoms/molecules. A sample simulation can be seen below.
